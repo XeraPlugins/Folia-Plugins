@@ -14,6 +14,7 @@ List of popular plugins that are working on supporting Folia or already support 
 
 | Name | GitHub | Download | Official Project | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
+| [8b8tCore](https://github.com/XeraPlugins/8b8tCore) | [GitHub](https://github.com/XeraPlugins/8b8tCore) | [Download](https://github.com/XeraPlugins/8b8tCore) | ✅ | Anarchy Server Core Plugin |
 | [AdvancedServerList](https://modrinth.com/plugin/advancedserverlist) | [GitHub](https://github.com/Andre601/AdvancedServerList) | [Download](https://modrinth.com/plugin/advancedserverlist) | ✅ | Server MOTD (Message Of The Day) |
 | [AntiPopup](https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/) | [GitHub](https://github.com/KaspianDev/AntiPopup) | [Download](https://modrinth.com/plugin/antipopup) | ✅ | Prevents the new 1.19 popup |
 | [BetterBoard](https://www.spigotmc.org/resources/betterboard.96393/) | [GitHub](https://github.com/HSGamer/BetterBoard) | [Download](https://www.spigotmc.org/resources/betterboard.96393/) | ✅ | Simple scoreboard plugin |
