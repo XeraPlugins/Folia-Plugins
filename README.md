@@ -199,7 +199,9 @@ Here is a list of servers that use Folia, make a pull request to add yours.
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 8b8t | [www.8b8t.me](https://www.8b8t.me) | Anarchy | 30-50 | 4.5 + years old Since 2016 |
 | 2b2t | [www.2b2t.org](https://www.2b2t.org) | Anarchy | 600-700 | One of the oldest servers in Minecraft |
+| 2b2t.es | [www.2b2t.es](https://www.2b2t.es/) | Anarchy | 5-15 | Hispanic Vanilla 2b2t Alternative with a 5 year old map |
 | InvadedLands | [www.invadedlands.net](https://invadedlands.net/) | Survival | 75-100 | A survival server with unique features |
+| 6b6t.org | [www.6b6t.org](https://www.6b6t.org/) | Semi Anarchy | 10-25 | Semi Anarchy Server operating on 7b7t/8b8t's Partial Map |
 
 ## Our Discord Server:
 https://discord.gg/8AQPWEYDUA
